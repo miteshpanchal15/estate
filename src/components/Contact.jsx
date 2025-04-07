@@ -46,7 +46,7 @@ const Contact = () => {
         </span>
       </h1>
       <p className="text-center text-gray-500 mb-12 max-w-80 mx-auto">
-        Ready to Make a Move? Let's Build Your Future Together
+        Ready to Make a Move? Let&#39;s Build Your Future Together
       </p>
 
       <form onSubmit={onSubmit} className="max-w-2xl mx-auto text-gray-600 pt-8">
